@@ -28,7 +28,7 @@ Random Forest, K-Nearest
 Neighbor, Naïve Bayes and
 Decision tree models.
 
-6. Unsupervised Learning :
+6.Unsupervised Learning :
 Clustering
 Understanding clustering analysis
 and its use in machine learning,
@@ -37,7 +37,7 @@ clustering models,Evaluating
 model performance and making
 predictions
 
-7. Unsupervised Learning -
+7.Unsupervised Learning -
 Dimensionality Reduction
 Understanding dimensionality
 reduction and its use in machine
@@ -47,9 +47,7 @@ t-SNE models,Evaluating model
 performance and making
 predictions.
 
-8. Natural Language
-Processing
-
+8.Natural Language Processing
 Basic concept of NLP, Data
 Cleaning: remove punctuations,
 tokenization, remove stop words,
@@ -59,6 +57,7 @@ Pattern, TextBlob,Vectorization
 techniques: Bag of Words, TF-IDF
 
 ### Introduction to Deep Learning
+
 Deep learning basics: Neural
 Network, perceptron,Back-Propagation,
 Activation functions, Deep networks,
