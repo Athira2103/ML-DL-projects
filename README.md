@@ -13,10 +13,11 @@ applications,Overview of
 Supervised, Unsupervised, and
 Reinforcement learning.
 
-3. Data Preprocessing for
+3.Data Preprocessing for
 Machine Learning
 
 4.Python Library: Numpy, Pandas, Sklearn
+
 5.Supervised Learning :Classification
 Understanding classification
 analysis and its use in machine
@@ -36,7 +37,7 @@ clustering models,Evaluating
 model performance and making
 predictions
 
-8. Unsupervised Learning -
+7. Unsupervised Learning -
 Dimensionality Reduction
 Understanding dimensionality
 reduction and its use in machine
@@ -46,7 +47,7 @@ t-SNE models,Evaluating model
 performance and making
 predictions.
 
-10. Natural Language
+8. Natural Language
 Processing
 
 Basic concept of NLP, Data
